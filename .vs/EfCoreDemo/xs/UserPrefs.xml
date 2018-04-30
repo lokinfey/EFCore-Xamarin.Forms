@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3F8A50F7-CDC6-49D2-9790-92F92D3E2343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EfCoreDemo/EfCoreDemo.Android/MainActivity.cs">
+    <Files>
+      <File FileName="EFCoreMigration/CourseInfo.cs" Line="14" Column="60" />
+      <File FileName="EFCoreMigration/CourseDbContext.cs" Line="30" Column="49" />
+      <File FileName="EfCoreDemo/EfCoreDemo/CourseDbContext.cs" Line="8" Column="1" />
+      <File FileName="EfCoreDemo/EfCoreDemo/MainPage.xaml.cs" Line="41" Column="2" />
+      <File FileName="EfCoreDemo/EfCoreDemo/MainPage.xaml" Line="6" Column="36" />
+      <File FileName="EFCoreMigration/CourseSession.cs" Line="15" Column="28" />
+      <File FileName="EfCoreDemo/EfCoreDemo/CourseSession.cs" Line="8" Column="1" />
+      <File FileName="EfCoreDemo/EfCoreDemo/CourseInfo.cs" Line="8" Column="1" />
+      <File FileName="EfCoreDemo/EfCoreDemo/Migrations/20180430024505_Initial.cs" Line="1" Column="1" />
+      <File FileName="EfCoreDemo/EfCoreDemo.iOS/AppDelegate.cs" Line="25" Column="1" />
+      <File FileName="EfCoreDemo/EfCoreDemo.Android/MainActivity.cs" Line="27" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EfCoreDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EfCoreDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2BF010E3-E56E-4ABB-9BFD-1699D08833D9" />
+</Properties>
